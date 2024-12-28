@@ -56,6 +56,6 @@ I got my PhD degree at [University of Science and Technology of China (USTC)](ht
     Tianjian Yang, Hao Zhou, Shuo Liu, **Kaiwen Guo**, Yiwen Hou, Haohua Du, Zhi Liu, Xiang-Yang Li.  
     *IEEE/ACM International Symposium on Quality of Service* **(IEEE/ACM IWQOS 2024, CCF-B)**
 
-11. **IMFi: IMU-WiFi based Cross-modal Gait Recognition System with Hot-Deployment.**  
+11. <font color=red>[MSN'21]</font> **IMFi: IMU-WiFi based Cross-modal Gait Recognition System with Hot-Deployment.**  
     Zengyu Song, Hao Zhou, Shan Wang, Jinmeng Fan, **Kaiwen Guo**, Wangqiu Zhou, Xiaoyan Wang, Xiang-Yang Li.  
     *IEEE Conference on Mobility, Sensing and Networking* **(IEEE MSN 2021, CCF-C)**
