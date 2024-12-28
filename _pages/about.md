@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "🧑‍🎓About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,13 +9,13 @@ redirect_from:
 
 I got my PhD degree at [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), where I was fortunate to be advised by [Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/) (ACM Fellow, IEEE Fellow). My research interests include IoT, Wireless Sensing, and Ubiquitous Computing. I am eager to connect and collaborate with fellow researchers interested in these areas. Feel free to reach out to me via email😆.
 
-# Education
+# 🎓Education
 - **2019.09-2024.12**&emsp;PhD in School of Computer Science and Technology, University of Science and Technology of China
 - **2014.09-2019.06**&emsp;B.E. in School of Computer Science and Information Engineering, Hefei University of Technology
 
-# News
+# 📰News
 
-# Publications
+# 📚Publications
 1. <span style="color: red; font-weight: bold;">[INFOCOM'22]</span> **Mudra: A Multi-Modal Smartwatch Interactive System with Hand Gesture Recognition and User Identification.**  
    **Kaiwen Guo**, Hao Zhou, Ye Tian, Wangqiu Zhou, Yusheng Ji, Xiang-Yang Li.  
    *IEEE Conference on Computer Communications* **(IEEE INFOCOM 2022, CCF-A)**
