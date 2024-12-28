@@ -70,21 +70,23 @@ Me --> [Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/) (ACM Fellow, IEEE
 
 # 🤝Acknowledgment
 I would like to extend my heartfelt gratitude to the companies and organizations that have collaborated with me on various projects. Their support and partnership have been invaluable in advancing our work. 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="margin: 10px;">
-    <img src="../images/LINKE_logo.png" alt="Company Logo 1" style="width: 150px;">
-    <p>**Company Name 1**</p>
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <div style="margin: 10px; text-align: center;">
+    <img src="../images/LINKE_logo.png" alt="LINKE Logo" style="width: 150px; height: auto;">
+    <p><strong>LINKE</strong></p>
   </div>
-  <div style="margin: 10px;">
-    <img src="../images/Huawei_logo.png" alt="Company Logo 2" style="width: 150px;">
-    <p>**Company Name 2**</p>
+  <div style="margin: 10px; text-align: center;">
+    <img src="../images/Huawei_logo.png" alt="Huawei Logo" style="width: 150px; height: auto;">
+    <p><strong>Huawei</strong></p>
   </div>
-  <div style="margin: 10px;">
-    <img src="../images/eleme_logo.png" alt="Company Logo 3" style="width: 150px;">
-    <p>**Company Name 3**</p>
+  <div style="margin: 10px; text-align: center;">
+    <img src="../images/eleme_logo.png" alt="Eleme Logo" style="width: 150px; height: auto;">
+    <p><strong>Eleme</strong></p>
   </div>
-  <div style="margin: 10px;">
-    <img src="../images/huami_logo.png" alt="Company Logo 3" style="width: 150px;">
-    <p>**Company Name 3**</p>
+  <div style="margin: 10px; text-align: center;">
+    <img src="../images/huami_logo.png" alt="Huami Logo" style="width: 150px; height: auto;">
+    <p><strong>Huami</strong></p>
   </div>
 </div>
+
+
