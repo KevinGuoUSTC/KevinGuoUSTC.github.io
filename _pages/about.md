@@ -72,15 +72,19 @@ Me --> [Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/) (ACM Fellow, IEEE
 I would like to extend my heartfelt gratitude to the companies and organizations that have collaborated with me on various projects. Their support and partnership have been invaluable in advancing our work. 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="margin: 10px;">
-    <img src="path/to/logo1.jpg" alt="Company Logo 1" style="width: 150px;">
+    <img src="../images/LINKE_logo.png" alt="Company Logo 1" style="width: 150px;">
     <p>**Company Name 1**</p>
   </div>
   <div style="margin: 10px;">
-    <img src="path/to/logo2.jpg" alt="Company Logo 2" style="width: 150px;">
+    <img src="../images/Huawei_logo.png" alt="Company Logo 2" style="width: 150px;">
     <p>**Company Name 2**</p>
   </div>
   <div style="margin: 10px;">
-    <img src="path/to/logo3.jpg" alt="Company Logo 3" style="width: 150px;">
+    <img src="../images/eleme_logo.png" alt="Company Logo 3" style="width: 150px;">
+    <p>**Company Name 3**</p>
+  </div>
+  <div style="margin: 10px;">
+    <img src="../images/huami_logo.png" alt="Company Logo 3" style="width: 150px;">
     <p>**Company Name 3**</p>
   </div>
 </div>
