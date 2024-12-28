@@ -64,3 +64,23 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
 11. <span style="color: red; font-weight: bold;">[MSN'21]</span> **IMFi: IMU-WiFi based Cross-modal Gait Recognition System with Hot-Deployment.**  
     Zengyu Song, Hao Zhou, Shan Wang, Jinmeng Fan, **Kaiwen Guo**, Wangqiu Zhou, Xiaoyan Wang, Xiang-Yang Li.  
     *IEEE Conference on Mobility, Sensing and Networking* **(IEEE MSN 2021, CCF-C)**
+
+# 🧬My Academic Ancestors
+Me --> [Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/) (ACM Fellow, IEEE Fellow) --> [Shang-Hua Teng](https://en.wikipedia.org/w/index.php?title=Shang-Hua_Teng) (ACM Fellow, Godel Prize, Fulkerson Prize) --> [Gary Miller](https://en.wikipedia.org/wiki/Gary_Miller_(computer_scientist)) (ACM Fellow, Knuth Prize, Paris Kanellakis Award) --> [Manuel Blum](https://en.wikipedia.org/wiki/Manuel_Blum) (**Turing Award**, 1995; three students won Turing Award) --> [Marvin Minsky](https://en.wikipedia.org/wiki/Marvin_Minsky) (**Turing Award**, 1969; two students won Turing Award) --> Albert W. Tucker (known for Karush–Kuhn–Tucker conditions) --> Solomon Lefschetz (National Medal of Science, Fellow of the Royal Society) --> William Edward Story -->   ... ,  --> Poisson --> Lagrange --> Euler --> Bernoulli, .....
+
+# 🤝Acknowledgment
+I would like to extend my heartfelt gratitude to the companies and organizations that have collaborated with me on various projects. Their support and partnership have been invaluable in advancing our work. 
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="margin: 10px;">
+    <img src="path/to/logo1.jpg" alt="Company Logo 1" style="width: 150px;">
+    <p>**Company Name 1**</p>
+  </div>
+  <div style="margin: 10px;">
+    <img src="path/to/logo2.jpg" alt="Company Logo 2" style="width: 150px;">
+    <p>**Company Name 2**</p>
+  </div>
+  <div style="margin: 10px;">
+    <img src="path/to/logo3.jpg" alt="Company Logo 3" style="width: 150px;">
+    <p>**Company Name 3**</p>
+  </div>
+</div>
