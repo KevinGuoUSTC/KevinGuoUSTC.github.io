@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Kaiwen Guo's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Kaiwen Guo"
 description              : &description "personal description"
 url                      : "https://kevinguoustc.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
