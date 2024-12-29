@@ -21,7 +21,7 @@ repository               : #"https://github.com/KevinGuoUSTC/KevinGuoUSTC.github
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my_photo.png"
+  avatar           : "my_photo.jpg"
   name             : "Kaiwen Guo (郭楷文)"
   pronouns         : # example: "she/her"  
   bio              : "PhD, CS, USTC"
