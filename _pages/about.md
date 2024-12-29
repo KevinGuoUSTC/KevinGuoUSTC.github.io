@@ -71,7 +71,7 @@ Me --> [Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/) (ACM Fellow, IEEE
 # 🤝 Acknowledgment
 I would like to extend my heartfelt gratitude to the companies and organizations (such as LINKE, Huawei, Eleme, Huami, etc.) that have collaborated with me on various projects. Their support and partnership have been invaluable in advancing our work. 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/images/ack_logo.png" alt="Company Logo" style="max-width: 100%; height: auto;">
+  <img src="ack_logo.png" alt="Company Logo" style="max-width: 100%; height: auto;">
 </div>
 
 
