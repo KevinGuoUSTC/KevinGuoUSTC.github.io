@@ -12,6 +12,7 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
 # 🎓 Education
 - **2019.09-2024.12**&emsp;Ph.D. in School of Computer Science and Technology, University of Science and Technology of China
 - **2014.09-2019.06**&emsp;B.E. in School of Computer Science and Information Engineering, Hefei University of Technology
+- **2017.09-2018.01**&emsp;Exchange Student in Department of Computer Science, National Tsing Hua University
 
 # 📰 News
 - **[2024.12]** 🎉Our context-aware project in collaboration with Huawei has successfully completed! We extend our sincere gratitude to Huawei, as well as to all the students and collaborators whose efforts and dedication made this achievement possible!
