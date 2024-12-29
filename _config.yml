@@ -12,7 +12,7 @@ title                    : "Kaiwen Guo's Homepage"
 title_separator          : "-"
 name                     : &name "Kaiwen Guo (郭楷文)"
 description              : &description "personal description"
-url                      : "https://kevinguoustc.github.io/"
+url                      : "https://kevinguoustc.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"/KevinGuoUSTC/KevinGuoUSTC.github.io"
 
