@@ -69,7 +69,7 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
 # 🧬 My Academic Ancestors
 Me --> [Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/) (ACM Fellow, IEEE Fellow) --> [Shang-Hua Teng](https://en.wikipedia.org/w/index.php?title=Shang-Hua_Teng) (ACM Fellow, Godel Prize, Fulkerson Prize) --> [Gary Miller](https://en.wikipedia.org/wiki/Gary_Miller_(computer_scientist)) (ACM Fellow, Knuth Prize, Paris Kanellakis Award) --> [Manuel Blum](https://en.wikipedia.org/wiki/Manuel_Blum) (**Turing Award**, 1995; three students won Turing Award) --> [Marvin Minsky](https://en.wikipedia.org/wiki/Marvin_Minsky) (**Turing Award**, 1969; two students won Turing Award) --> Albert W. Tucker (known for Karush–Kuhn–Tucker conditions) --> Solomon Lefschetz (National Medal of Science, Fellow of the Royal Society) --> William Edward Story -->   ... ,  --> Poisson --> Lagrange --> Euler --> Bernoulli, .....
 
-# 🤝 Acknowledgment
+# 🤝 Acknowledgments
 I would like to extend my heartfelt gratitude to the companies and organizations (such as LINKE, Huawei, Eleme, Huami, etc.) that have collaborated with me on various projects. Their support and partnership have been invaluable in advancing our work. 
 <div style="text-align: center; margin: 20px 0;">
   <img src="../images/ack_logo.png" alt="Company Logo" style="max-width: 100%; height: auto;">
