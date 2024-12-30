@@ -74,5 +74,13 @@ I would like to extend my heartfelt gratitude to the companies and organizations
 <div style="text-align: center; margin: 20px 0;">
   <img src="../images/ack_logo.png" alt="Company Logo" style="max-width: 100%; height: auto;">
 </div>
+Furthermore, I am deeply grateful to my research collaborators who have made significant contributions to my academic journey. They include, but are not limited to (only introducing those with personal webpages):
+
+- [Hao Zhou](https://cs.ustc.edu.cn/2020/0905/c23239a460148/page.htm), now Associate Professor at USTC, research interests include wireless charging and wireless sensing.
+- [Haohua Du](https://cst.buaa.edu.cn/info/1113/2720.htm), now Assistant Professor at BUAA, research interests include mobile computing and IoT security.
+- [Feiyu Han](https://fyhancs.github.io/), now at NUIST, research interests include mobile/wireless sensing and ubiquitous computing.
+- [Fei Shang](https://zaoanhh.github.io/), now Ph.D. Candidate at USTC, research interest is wireless sensing.
+- [Jingmiao Zhang](https://glycineeeee.github.io/), now Master at USTC, research interests include security and privacy in IoT systems and machine learning. <span style="color: red; font-weight: bold;">She is seeking 2025 summer research internships and Ph.D. opportunities for Fall 2026 worldwide🔥.</span>
+- ...
 
 
