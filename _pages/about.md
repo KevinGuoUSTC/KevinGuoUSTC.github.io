@@ -74,6 +74,16 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
 - **Journal Reviewer**  
   - *IEEE Internet of Things Journal*
 
+# 🏆 Honors and Awards
+- **[2024.10]**&emsp;Jiaolong Second-Class Scholarship at USTC
+- **[2024.06]**&emsp;Outstanding Graduate of Anhui Province
+- **[2024.06]**&emsp;Outstanding Graduate of the University of Science and Technology of China
+- **[2023.10]**&emsp;Longfor Scholarship at USTC
+- **[2022.10]**&emsp;Suzhou Industrial Park Scholarship at USTC
+- **[2021.06]**&emsp;Outstanding Communist Party Member of the University of Science and Technology of China
+- **[2020.10]**&emsp;Shenzhen Stock Exchange Scholarship at USTC
+- **[2019-2024]**&emsp;First-Class Academic Scholarship at USTC
+
 # 🧬 Academic Ancestors
 Me --> [Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/) (ACM Fellow, IEEE Fellow) --> [Shang-Hua Teng](https://en.wikipedia.org/w/index.php?title=Shang-Hua_Teng) (ACM Fellow, Godel Prize, Fulkerson Prize) --> [Gary Miller](https://en.wikipedia.org/wiki/Gary_Miller_(computer_scientist)) (ACM Fellow, Knuth Prize, Paris Kanellakis Award) --> [Manuel Blum](https://en.wikipedia.org/wiki/Manuel_Blum) (**Turing Award**, 1995; three students won Turing Award) --> [Marvin Minsky](https://en.wikipedia.org/wiki/Marvin_Minsky) (**Turing Award**, 1969; two students won Turing Award) --> Albert W. Tucker (known for Karush–Kuhn–Tucker conditions) --> Solomon Lefschetz (National Medal of Science, Fellow of the Royal Society) --> William Edward Story -->   ... ,  --> Poisson --> Lagrange --> Euler --> Bernoulli, .....
 
