@@ -66,6 +66,14 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
     Zengyu Song, Hao Zhou, Shan Wang, Jinmeng Fan, **Kaiwen Guo**, Wangqiu Zhou, Xiaoyan Wang, Xiang-Yang Li.  
     *IEEE Conference on Mobility, Sensing and Networking* **(IEEE MSN 2021, CCF-C)**
 
+# 🎙️ Talks
+- **[2024.08]** **All- scene Collaborative Sensing and Interaction - Some Practical Applications in Real-world**  
+  *@ The 10th International Conference of Big Data Computing and Communications, Dalian, China*
+
+# 📝 Academic Services
+- **Journal Reviewer**  
+  - *IEEE Internet of Things Journal*
+
 # 🧬 My Academic Ancestors
 Me --> [Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/) (ACM Fellow, IEEE Fellow) --> [Shang-Hua Teng](https://en.wikipedia.org/w/index.php?title=Shang-Hua_Teng) (ACM Fellow, Godel Prize, Fulkerson Prize) --> [Gary Miller](https://en.wikipedia.org/wiki/Gary_Miller_(computer_scientist)) (ACM Fellow, Knuth Prize, Paris Kanellakis Award) --> [Manuel Blum](https://en.wikipedia.org/wiki/Manuel_Blum) (**Turing Award**, 1995; three students won Turing Award) --> [Marvin Minsky](https://en.wikipedia.org/wiki/Marvin_Minsky) (**Turing Award**, 1969; two students won Turing Award) --> Albert W. Tucker (known for Karush–Kuhn–Tucker conditions) --> Solomon Lefschetz (National Medal of Science, Fellow of the Royal Society) --> William Edward Story -->   ... ,  --> Poisson --> Lagrange --> Euler --> Bernoulli, .....
 
