@@ -70,19 +70,25 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
 - **[2024.08]** **All-scene Collaborative Sensing and Interaction - Some Practical Applications in Real-world**  
   *@ The 10th International Conference of Big Data Computing and Communications, Dalian, China*
 
+# 👨‍🏫 Teaching Experience
+- **[2023/2023 Fall]**&emsp;**Teaching Assistant**, Science and Society, Instructor: Prof. Xiang-Yang Li, USTC
+- **[2022 Spring]**&emsp;**Teaching Assistant**, Applied Mathematics for Computer Science, Instructor: Prof. Qi Song, USTC
+- **[2021 Fall]**&emsp;**Teaching Assistant**, Combinatorial Mathematics, Instructor: Dengdi Sun, USTC
+- **[2019 Fall]**&emsp;**Teaching Assistant**, Advanced Software Engineering, Instructor: Prof. Hao Zhou, USTC
+
 # 📝 Academic Services
 - **Journal Reviewer**  
   - *IEEE Internet of Things Journal*
 
 # 🏆 Honors and Awards
-- **[2024.10]**&emsp;Jiaolong Second-Class Scholarship at USTC
+- **[2024.10]**&emsp;Jiaolong Second-Class Scholarship, USTC
 - **[2024.06]**&emsp;Outstanding Graduate of Anhui Province
 - **[2024.06]**&emsp;Outstanding Graduate of the University of Science and Technology of China
-- **[2023.10]**&emsp;Longfor Scholarship at USTC
-- **[2022.10]**&emsp;Suzhou Industrial Park Scholarship at USTC
+- **[2023.10]**&emsp;Longfor Scholarship, USTC
+- **[2022.10]**&emsp;Suzhou Industrial Park Scholarship, USTC
 - **[2021.06]**&emsp;Outstanding Communist Party Member of the University of Science and Technology of China
-- **[2020.10]**&emsp;Shenzhen Stock Exchange Scholarship at USTC
-- **[2019-2024]**&emsp;First-Class Academic Scholarship at USTC
+- **[2020.10]**&emsp;Shenzhen Stock Exchange Scholarship, USTC
+- **[2019-2024]**&emsp;First-Class Academic Scholarship, USTC
 
 # 🧬 Academic Ancestors
 Me --> [Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/) (ACM Fellow, IEEE Fellow) --> [Shang-Hua Teng](https://en.wikipedia.org/w/index.php?title=Shang-Hua_Teng) (ACM Fellow, Godel Prize, Fulkerson Prize) --> [Gary Miller](https://en.wikipedia.org/wiki/Gary_Miller_(computer_scientist)) (ACM Fellow, Knuth Prize, Paris Kanellakis Award) --> [Manuel Blum](https://en.wikipedia.org/wiki/Manuel_Blum) (**Turing Award**, 1995; three students won Turing Award) --> [Marvin Minsky](https://en.wikipedia.org/wiki/Marvin_Minsky) (**Turing Award**, 1969; two students won Turing Award) --> Albert W. Tucker (known for Karush–Kuhn–Tucker conditions) --> Solomon Lefschetz (National Medal of Science, Fellow of the Royal Society) --> William Edward Story -->   ... ,  --> Poisson --> Lagrange --> Euler --> Bernoulli, .....
