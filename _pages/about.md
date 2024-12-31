@@ -105,7 +105,7 @@ Furthermore, I am deeply grateful to my research collaborators who have made sig
 - [Feiyu Han](https://fyhancs.github.io/), now at NUIST, research interests include mobile/wireless sensing and ubiquitous computing.
 - [Fei Shang](https://zaoanhh.github.io/), now Ph.D. Candidate at USTC, research interest is wireless sensing.
 - [Jingmiao Zhang](https://glycineeeee.github.io/), now Master Student at USTC, research interests include security and privacy in IoT systems and machine learning. <span style="color: red; font-weight: bold;">She is seeking 2025 summer research internships and Ph.D. opportunities for Fall 2026 worldwide🔥.</span>
-- [Shicheng Zheng](https://about.scsccc.com/), now Joint-Ph.D. Student of MSRA and USTC, research interests include wireless, network and artificial intelligence.
+- [Shicheng Zheng](https://about.scsccc.com/), now Joint-Ph.D. Student of MSRA and USTC, research interests include wireless, network and artificial intelligence. Thanks to him for the VPN and GPT☺️.
 - ...
 
 
