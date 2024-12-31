@@ -6,8 +6,8 @@
 
 main:
   
-  - title: "About Me"
-    url: "/#-about-me"
+  - title: "Bio"
+    url: "/#-bio"
   
   - title: "Education"
     url: "/#-education"
@@ -21,11 +21,11 @@ main:
   - title: "Talks"
     url: "/#-talks"
 
-  - title: "Academic Services"
+  - title: "Services"
     url: "/#-academic-services"
 
-  - title: "My Academic Ancestors"
-    url: "/#-my-academic-ancestors"
+  - title: "Academic Ancestors"
+    url: "/#-academic-ancestors"
 
   - title: "Acknowledgments"
     url: "/#-acknowledgments"
