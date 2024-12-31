@@ -20,6 +20,7 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
 - **[2024.10]** 🥳I am thrilled to announce that I have successfully completed my Ph.D. thesis defense! I am deeply grateful to my supervisor, Prof. Xiang-Yang Li, for his invaluable guidance and support throughout my doctoral journey.
 - **[2024.10]** 🎉Our two papers *"WowSense: A High-Accuracy Real-Time Grip-State Sensing on Commodity Smartphones."* and *"InOut: Lightweight Transferable Multimodal Indoor-Outdoor Detection System with Smartphones."* has been accepted by **IEEE MSN 2024 (CCF-C)**. Congratulations to Yichao and Yiyu!
 - **[2024.10]** 🎉Our paper *"SGSM: Semi-generalist Sensing Model Combining Handcrafted and Deep Learning Methods."* has been published in International Journal of Machine Learning and Cybernetics **(JCR-Q2)**. Congratulations to Tianjian!
+- **[2024.06]** 🥳I am truly honored to be recognized as an **Outstanding Graduate of Anhui Province（安徽省优秀毕业生）** and an **Outstanding Graduate of the University of Science and Technology of China（中国科大优秀毕业生）**. This honor is a significant affirmation of my work during my doctoral studies, and I am deeply grateful to all the teachers and classmates who have supported and helped me along the way.
 
 # 📚 Publications
 1. <span style="color: red; font-weight: bold;">[INFOCOM'22]</span> **Mudra: A Multi-Modal Smartwatch Interactive System with Hand Gesture Recognition and User Identification.**  
@@ -105,7 +106,7 @@ Furthermore, I am deeply grateful to my research collaborators who have made sig
 - [Feiyu Han](https://fyhancs.github.io/), now at NUIST, research interests include mobile/wireless sensing and ubiquitous computing.
 - [Fei Shang](https://zaoanhh.github.io/), now Ph.D. Candidate at USTC, research interest is wireless sensing.
 - [Jingmiao Zhang](https://glycineeeee.github.io/), now Master Student at USTC, research interests include security and privacy in IoT systems and machine learning. <span style="color: red; font-weight: bold;">She is seeking 2025 summer research internships and Ph.D. opportunities for Fall 2026 worldwide🔥.</span>
-- [Shicheng Zheng](https://about.scsccc.com/), now Joint-Ph.D. Student of MSRA and USTC, research interests include wireless, network and artificial intelligence. Thanks to him for providing the convenient VPN and GPT😄.
+- [Shicheng Zheng](https://about.scsccc.com/), now Joint-Ph.D. Student of MSRA and USTC, research interests include wireless, network and artificial intelligence. Thanks to him for providing the convenient network infrastructure and GPT😄.
 - ...
 
 
