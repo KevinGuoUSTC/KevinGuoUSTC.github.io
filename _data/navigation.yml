@@ -24,6 +24,9 @@ main:
   - title: "Services"
     url: "/#-academic-services"
 
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+    
   - title: "Academic Ancestors"
     url: "/#-academic-ancestors"
 
