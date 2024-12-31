@@ -67,7 +67,7 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
     *IEEE Conference on Mobility, Sensing and Networking* **(IEEE MSN 2021, CCF-C)**
 
 # 🎙️ Talks
-- **[2024.08]** **All- scene Collaborative Sensing and Interaction - Some Practical Applications in Real-world**  
+- **[2024.08]** **All-scene Collaborative Sensing and Interaction - Some Practical Applications in Real-world**  
   *@ The 10th International Conference of Big Data Computing and Communications, Dalian, China*
 
 # 📝 Academic Services
