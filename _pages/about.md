@@ -122,6 +122,7 @@ Beyond my academic research, I am passionate about exploring and experiencing di
     <img src="../images/photograph3.jpg" alt="Photography Photo 3" style="max-width: 30%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
     <img src="../images/photograph4.jpg" alt="Photography Photo 4" style="max-width: 30%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
     <img src="../images/photograph5.jpg" alt="Photography Photo 5" style="max-width: 30%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
+    <img src="../images/photograph6.jpg" alt="Photography Photo 6" style="max-width: 30%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
