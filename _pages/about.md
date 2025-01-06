@@ -95,13 +95,13 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
 Me --> [Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/) (ACM Fellow, IEEE Fellow) --> [Shang-Hua Teng](https://en.wikipedia.org/w/index.php?title=Shang-Hua_Teng) (ACM Fellow, Godel Prize, Fulkerson Prize) --> [Gary Miller](https://en.wikipedia.org/wiki/Gary_Miller_(computer_scientist)) (ACM Fellow, Knuth Prize, Paris Kanellakis Award) --> [Manuel Blum](https://en.wikipedia.org/wiki/Manuel_Blum) (**Turing Award**, 1995; three students won Turing Award) --> [Marvin Minsky](https://en.wikipedia.org/wiki/Marvin_Minsky) (**Turing Award**, 1969; two students won Turing Award) --> Albert W. Tucker (known for Karush–Kuhn–Tucker conditions) --> Solomon Lefschetz (National Medal of Science, Fellow of the Royal Society) --> William Edward Story -->   ... ,  --> Poisson --> Lagrange --> Euler --> Bernoulli, .....
 
 # 🤝 Acknowledgments
-## Companies and Organizations
+## 🏢 Companies and Organizations
 I would like to extend my heartfelt gratitude to the companies and organizations (such as [LINKE](https://linke.ustc.edu.cn/main.htm), Huawei, Eleme, Huami, etc.) that have collaborated with me on various projects. Their support and partnership have been invaluable in advancing our work. 
 <div style="text-align: center; margin: 20px 0;">
   <img src="../images/ack_logo.png" alt="Company Logo" style="max-width: 100%; height: auto;">
 </div>
 
-## My Best Collaborators
+## 🧑‍🤝‍🧑 My Best Collaborators
 Furthermore, I am deeply grateful to my research collaborators who have made significant contributions to my academic journey. They include, but are not limited to (only introducing those with personal webpages):
 - [Hao Zhou](https://cs.ustc.edu.cn/2020/0905/c23239a460148/page.htm), now Associate Professor at USTC, research interests include wireless charging and wireless sensing.
 - [Haohua Du](https://cst.buaa.edu.cn/info/1113/2720.htm), now Assistant Professor at BUAA, research interests include mobile computing and IoT security.
@@ -112,7 +112,7 @@ Furthermore, I am deeply grateful to my research collaborators who have made sig
 - [Ye Tian](https://scholar.google.com/citations?user=P3hRr2wAAAAJ&hl=en), now Ph.D. Candidate at UCSD,  research interests include mobile computing and ubiquitous computing.
 - ...
 
-## Hobbies
+## 🌟 Hobbies
 Beyond my academic research, I am passionate about exploring and experiencing different hobbies, which bring joy and inspiration to my life. My interests include photography, culinary, and gaming.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -131,7 +131,7 @@ Beyond my academic research, I am passionate about exploring and experiencing di
     <img src="../images/model4.jpg" alt="Model Photo 4" style="max-width: 22.2%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
 </div>
 
-Also see my cute cat.
+And see my cute cat - Ximi 🐈.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="../images/cat.jpg" alt="Cat Photo" style="max-width: 24%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
