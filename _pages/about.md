@@ -128,5 +128,6 @@ Beyond my academic research, I am passionate about exploring and experiencing di
 </div>
 
 Also see my cute cat.
+
 <img src="../images/cat.jpg" alt="Cat Photo" style="max-width: 24%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
 
