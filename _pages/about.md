@@ -131,6 +131,7 @@ Beyond my academic research, I am passionate about exploring and experiencing di
     <img src="../images/model4.jpg" alt="Model Photo 4" style="max-width: 22.2%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
 </div>
 
+<br>
 And see my cute cat - Ximi 🐈.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
