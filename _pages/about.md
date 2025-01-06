@@ -117,17 +117,17 @@ Furthermore, I am deeply grateful to my research collaborators who have made sig
 Beyond my academic research, I am passionate about exploring and experiencing different hobbies, which bring joy and inspiration to my life. My interests include culinary, photography, and gaming.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="../images/photograph1.jpg" alt="Photography Photo 1">
-    <img src="../images/photograph2.jpg" alt="Photography Photo 2">
-    <img src="../images/photograph3.jpg" alt="Photography Photo 3">
-    <img src="../images/photograph4.jpg" alt="Photography Photo 4">
-    <img src="../images/photograph5.jpg" alt="Photography Photo 5">
+    <img src="../images/photograph1.jpg" alt="Photography Photo 1" style="max-width: 200px; height: auto; border-radius: 5px; border: 1px solid #ddd;>
+    <img src="../images/photograph2.jpg" alt="Photography Photo 2" style="max-width: 200px; height: auto; border-radius: 5px; border: 1px solid #ddd;>
+    <img src="../images/photograph3.jpg" alt="Photography Photo 3" style="max-width: 200px; height: auto; border-radius: 5px; border: 1px solid #ddd;>
+    <img src="../images/photograph4.jpg" alt="Photography Photo 4" style="max-width: 200px; height: auto; border-radius: 5px; border: 1px solid #ddd;>
+    <img src="../images/photograph5.jpg" alt="Photography Photo 5" style="max-width: 200px; height: auto; border-radius: 5px; border: 1px solid #ddd;>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="../images/food1.jpg" alt="Food Photo 1">
-    <img src="../images/food2.jpg" alt="Food Photo 2">
-    <img src="../images/food3.jpg" alt="Food Photo 3">
+    <img src="../images/food1.jpg" alt="Food Photo 1" style="max-width: 200px; height: auto; border-radius: 5px; border: 1px solid #ddd;>
+    <img src="../images/food2.jpg" alt="Food Photo 2" style="max-width: 200px; height: auto; border-radius: 5px; border: 1px solid #ddd;>
+    <img src="../images/food3.jpg" alt="Food Photo 3" style="max-width: 200px; height: auto; border-radius: 5px; border: 1px solid #ddd;>
 </div>
 
 Also see my cute cat.
