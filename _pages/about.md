@@ -125,13 +125,15 @@ Beyond my academic research, I am passionate about exploring and experiencing di
     <img src="../images/food1.jpg" alt="Food Photo 1" style="max-width: 30%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
     <img src="../images/food2.jpg" alt="Food Photo 2" style="max-width: 30%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
     <img src="../images/food3.jpg" alt="Food Photo 3" style="max-width: 30%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
-    <img src="../images/model1.jpg" alt="Model Photo 1" style="max-width: 22%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
-    <img src="../images/model2.jpg" alt="Model Photo 2" style="max-width: 22%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
-    <img src="../images/model3.jpg" alt="Model Photo 3" style="max-width: 22%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
-    <img src="../images/model4.jpg" alt="Model Photo 4" style="max-width: 22%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
+    <img src="../images/model1.jpg" alt="Model Photo 1" style="max-width: 22.2%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
+    <img src="../images/model2.jpg" alt="Model Photo 2" style="max-width: 22.2%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
+    <img src="../images/model3.jpg" alt="Model Photo 3" style="max-width: 22.2%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
+    <img src="../images/model4.jpg" alt="Model Photo 4" style="max-width: 22.2%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
 </div>
 
 Also see my cute cat.
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="../images/cat.jpg" alt="Cat Photo" style="max-width: 24%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
+</div>
 
