@@ -103,7 +103,6 @@ I would like to extend my heartfelt gratitude to the companies and organizations
 
 ## My Best Collaborators
 Furthermore, I am deeply grateful to my research collaborators who have made significant contributions to my academic journey. They include, but are not limited to (only introducing those with personal webpages):
-
 - [Hao Zhou](https://cs.ustc.edu.cn/2020/0905/c23239a460148/page.htm), now Associate Professor at USTC, research interests include wireless charging and wireless sensing.
 - [Haohua Du](https://cst.buaa.edu.cn/info/1113/2720.htm), now Assistant Professor at BUAA, research interests include mobile computing and IoT security.
 - [Feiyu Han](https://fyhancs.github.io/), now at NUIST, research interests include mobile/wireless sensing and ubiquitous computing.
@@ -114,7 +113,7 @@ Furthermore, I am deeply grateful to my research collaborators who have made sig
 - ...
 
 ## Hobbies
-Beyond my academic research, I am passionate about exploring and experiencing different hobbies, which bring joy and inspiration to my life. My interests include culinary, photography, and gaming.
+Beyond my academic research, I am passionate about exploring and experiencing different hobbies, which bring joy and inspiration to my life. My interests include photography, culinary, and gaming.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="../images/photograph1.jpg" alt="Photography Photo 1" style="max-width: 30%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
@@ -123,13 +122,11 @@ Beyond my academic research, I am passionate about exploring and experiencing di
     <img src="../images/photograph4.jpg" alt="Photography Photo 4" style="max-width: 30%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
     <img src="../images/photograph5.jpg" alt="Photography Photo 5" style="max-width: 30%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
     <img src="../images/photograph6.jpg" alt="Photography Photo 6" style="max-width: 30%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="../images/food1.jpg" alt="Food Photo 1" style="max-width: 30%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
     <img src="../images/food2.jpg" alt="Food Photo 2" style="max-width: 30%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
     <img src="../images/food3.jpg" alt="Food Photo 3" style="max-width: 30%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
 </div>
 
 Also see my cute cat.
+<img src="../images/cat.jpg" alt="Cat Photo" style="max-width: 24%; height: auto; border-radius: 5px; border: 1px solid #ddd;">
 
