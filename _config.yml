@@ -24,9 +24,9 @@ author:
   avatar           : "my_photo.jpg"
   name             : "Kaiwen Guo (郭楷文)"
   pronouns         : # example: "she/her"  
-  bio              : "PhD, Computer Science, USTC"
-  location         : "Hefei, Anhui, China"
-  employer         : "USTC"
+  bio              : "Computer Science, OUC"
+  location         : "Qingdao, Shandong, China"
+  employer         : "OUC & USTC"
   uri              : # URL
   email            : "kevinguo@ouc.edu.cn" 
 
