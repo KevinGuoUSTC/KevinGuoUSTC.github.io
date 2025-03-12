@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 # 👤 Bio
-I got my Ph.D. degree at [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), where I was fortunate to be advised by [Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/) (ACM Fellow, IEEE Fellow). My research interests include IoT, Wireless Sensing, and Ubiquitous Computing. I am eager to connect and collaborate with fellow researchers interested in these areas. Feel free to reach out to me via email😆.
+I got my Ph.D. degree at [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), where I was fortunate to be advised by [Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/) (ACM Fellow, IEEE Fellow). Now, I am working at [Ocean University of China (OUC)](https://www.ouc.edu.cn/main.htm). My research interests include IoT, Wireless Sensing, and Ubiquitous Computing. I am eager to connect and collaborate with fellow researchers interested in these areas. Feel free to reach out to me via email😆.
 
 # 🎓 Education
 - **2019.09 - 2024.12**&emsp;Ph.D. in School of Computer Science and Technology, University of Science and Technology of China
