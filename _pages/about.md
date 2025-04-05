@@ -15,6 +15,7 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
 - **2017.09 - 2018.01**&emsp;Exchange Student in Department of Computer Science, National Tsing Hua University
 
 # 📰 News
+- **[2025.04]**🎉 Our paper *"ChannelZip: SLO-Aware Channel Compression for Task-Adaptive Model Serving on IoT Devices."* has been accepted by **ACM TOSN 2024 (CCF-B)**. Congratulations to Puhan!
 - **[2024.12]** 🎉 Our context-aware project in collaboration with Huawei has successfully completed! We extend our sincere gratitude to Huawei, as well as to all the students and collaborators whose efforts and dedication made this achievement possible!
 - **[2024.11]** 🎉 Our team achieved multiple awards at **泛在智能感知技术创新应用大赛**. The project *"可拍不可见：基于屏幕拍摄的设备通信"* won the second prize. Four projects received third prizes: *"多模态融合的设备握持状态感知"*, *"基于超声波与陀螺仪的侧信道安全通信方案"*, *"基于多模态融合的移动设备位置感知"* and *"基于移动设备的多模态融合距离感知"*. Congratulations to Haikuo, Jingmiao, Yichao, Junyang, Yiyu, Xiao and all collaborators!
 - **[2024.10]** 🥳 I am thrilled to announce that I have successfully completed my Ph.D. thesis defense! I am deeply grateful to my supervisor, Prof. Xiang-Yang Li, for his invaluable guidance and support throughout my doctoral journey.
@@ -23,47 +24,55 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
 - **[2024.06]** 🥳 I am truly honored to be recognized as an **Outstanding Graduate of Anhui Province (安徽省优秀毕业生)** and an **Outstanding Graduate of the University of Science and Technology of China (中国科大优秀毕业生)**. This honor is a significant affirmation of my work during my doctoral studies, and I am deeply grateful to all the teachers and classmates who have supported and helped me along the way.
 
 # 📚 Publications
-1. <span style="color: red; font-weight: bold;">[INFOCOM'22]</span> **Mudra: A Multi-Modal Smartwatch Interactive System with Hand Gesture Recognition and User Identification.**  
+**---2025---**
+
+- <span style="color: red; font-weight: bold;">[TOSN'25]</span> **ChannelZip: SLO-Aware Channel Compression for Task-Adaptive Model Serving on IoT Devices.**  
+   Puhan Luo, Jiahui Hou, Haisheng Tan, Mu Yuan, Guangyu Wu, **Kaiwen Guo**, Zhiqiang Wang, Xiang-Yang Li.  
+   *ACM Transactions on Sensor Networks* **(ACM TOSN 2025, CCF-B)**
+  
+**---Before 2025---**
+
+- <span style="color: red; font-weight: bold;">[INFOCOM'22]</span> **Mudra: A Multi-Modal Smartwatch Interactive System with Hand Gesture Recognition and User Identification.**  
    **Kaiwen Guo**, Hao Zhou, Ye Tian, Wangqiu Zhou, Yusheng Ji, Xiang-Yang Li.  
    *IEEE Conference on Computer Communications* **(IEEE INFOCOM 2022, CCF-A)**
 
-2. <span style="color: red; font-weight: bold;">[SECON'23]</span> **PianoWatch: An Intelligent Piano Understanding and Evaluation System Using Smartwatch.**  
+- <span style="color: red; font-weight: bold;">[SECON'23]</span> **PianoWatch: An Intelligent Piano Understanding and Evaluation System Using Smartwatch.**  
    **Kaiwen Guo**, Hao Zhou, Siyu Jing, Haohua Du, Puhan Luo, Jiahui Hou, Xiang-Yang Li.  
    *IEEE Conference on Sensing, Communication, and Networking* **(IEEE SECON 2023, CCF-B)**
 
-3. <span style="color: red; font-weight: bold;">[MSN'20]</span> **FD-Band: A Ubiquitous Fall Detection System Using Low-Cost COTS Smart Band.**  
+- <span style="color: red; font-weight: bold;">[MSN'20]</span> **FD-Band: A Ubiquitous Fall Detection System Using Low-Cost COTS Smart Band.**  
    **Kaiwen Guo**, Yingling Quan, Hao Zhou, Zhi Liu, Panlong Yang, Xiang-Yang Li.  
    *IEEE Conference on Mobility, Sensing and Networking* **(IEEE MSN 2020, CCF-C)**
 
-4. <span style="color: red; font-weight: bold;">[MSN'24]</span> **WowSense: A High-Accuracy Real-Time Grip-State Sensing on Commodity Smartphones.**  
+- <span style="color: red; font-weight: bold;">[MSN'24]</span> **WowSense: A High-Accuracy Real-Time Grip-State Sensing on Commodity Smartphones.**  
    Yichao Gao, **Kaiwen Guo** *(Corresponding Author)*, Chuanzi Zhang, Yiyu Xin, Feiyu Han, Haohua Du, Xiang-Yang Li.  
    *IEEE Conference on Mobility, Sensing and Networking* **(IEEE MSN 2024, CCF-C)**
 
-5. <span style="color: red; font-weight: bold;">[MSN'24]</span> **InOut: Lightweight Transferable Multimodal Indoor-Outdoor Detection System with Smartphones.**  
+- <span style="color: red; font-weight: bold;">[MSN'24]</span> **InOut: Lightweight Transferable Multimodal Indoor-Outdoor Detection System with Smartphones.**  
    Yiyu Xin, Chuanzi Zhang, **Kaiwen Guo** *(Corresponding Author)*, Yichao Gao, Haohua Du, Xiang-Yang Li.  
    *IEEE Conference on Mobility, Sensing and Networking* **(IEEE MSN 2024, CCF-C)**
 
-6. <span style="color: red; font-weight: bold;">[INFOCOM'24]</span> **MultiHGR: Multi-Task Hand Gesture Recognition with Cross-Modal Wrist-Worn Devices.**  
+- <span style="color: red; font-weight: bold;">[INFOCOM'24]</span> **MultiHGR: Multi-Task Hand Gesture Recognition with Cross-Modal Wrist-Worn Devices.**  
    Mengxia Lyu, Hao Zhou, **Kaiwen Guo**, Wangqiu Zhou, Xingfa Shen, Yu Gu.  
    *IEEE Conference on Computer Communications* **(IEEE INFOCOM 2024, CCF-A)**
 
-7. <span style="color: red; font-weight: bold;">[INFOCOM'22]</span> **Shield: Safety Ensured High-efficient Scheduling for Magnetic MIMO Wireless Power Transfer System.**  
+- <span style="color: red; font-weight: bold;">[INFOCOM'22]</span> **Shield: Safety Ensured High-efficient Scheduling for Magnetic MIMO Wireless Power Transfer System.**  
    Wangqiu Zhou, Hao Zhou, Xiaoyu Wang, **Kaiwen Guo**, Haisheng Tan, Xiang-Yang Li.  
    *IEEE Conference on Computer Communications* **(IEEE INFOCOM 2022, CCF-A)**
 
-8. <span style="color: red; font-weight: bold;">[SenSys'22]</span> **HideSeeker: Uncover the Hidden Gems in Obfuscated Images.**  
+- <span style="color: red; font-weight: bold;">[SenSys'22]</span> **HideSeeker: Uncover the Hidden Gems in Obfuscated Images.**  
    Suyuan Liu, Lan Zhang, Haikuo Yu, Jiahui Hou, **Kaiwen Guo**, Xiang-Yang Li.  
    *ACM Conference on Embedded Networked Sensor Systems* **(ACM SenSys 2022, CCF-B)**
 
-9. <span style="color: red; font-weight: bold;">[IJMLC]</span> **SGSM: Semi-generalist Sensing Model Combining Handcrafted and Deep Learning Methods.**  
+- <span style="color: red; font-weight: bold;">[IJMLC'24]</span> **SGSM: Semi-generalist Sensing Model Combining Handcrafted and Deep Learning Methods.**  
    Tianjian Yang, Hao Zhou, Shuo Liu, **Kaiwen Guo**, Yiwen Hou, Haohua Du, Xiang-Yang Li.  
    *International Journal of Machine Learning and Cybernetics* **(JCR-Q2)**
 
-10. <span style="color: red; font-weight: bold;">[IWQoS'24]</span> **SGSM: A Foundation-model-like Semi-generalist Sensing Model.**  
+- <span style="color: red; font-weight: bold;">[IWQoS'24]</span> **SGSM: A Foundation-model-like Semi-generalist Sensing Model.**  
     Tianjian Yang, Hao Zhou, Shuo Liu, **Kaiwen Guo**, Yiwen Hou, Haohua Du, Zhi Liu, Xiang-Yang Li.  
     *IEEE/ACM International Symposium on Quality of Service* **(IEEE/ACM IWQOS 2024, CCF-B)**
 
-11. <span style="color: red; font-weight: bold;">[MSN'21]</span> **IMFi: IMU-WiFi based Cross-modal Gait Recognition System with Hot-Deployment.**  
+- <span style="color: red; font-weight: bold;">[MSN'21]</span> **IMFi: IMU-WiFi based Cross-modal Gait Recognition System with Hot-Deployment.**  
     Zengyu Song, Hao Zhou, Shan Wang, Jinmeng Fan, **Kaiwen Guo**, Wangqiu Zhou, Xiaoyan Wang, Xiang-Yang Li.  
     *IEEE Conference on Mobility, Sensing and Networking* **(IEEE MSN 2021, CCF-C)**
 
