@@ -15,16 +15,25 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
 - **2017.09 - 2018.01**&emsp;Exchange Student in Department of Computer Science, National Tsing Hua University
 
 # 📰 News
-- **[2025.04]**🎉 Our paper *"ChannelZip: SLO-Aware Channel Compression for Task-Adaptive Model Serving on IoT Devices."* has been accepted by **ACM TOSN 2024 (CCF-B)**. Congratulations to Puhan!
+- **[2025.05]** 🎉 Our two paper *"Indoor Localization from Large-scale Poor-quality Crowdsourcing WiFi Data for On-demand Delivery"* and *"InvisiCode: Boosting Intra-Frame Screen-Camera Communication by Breaking Through Noise Limitations*" have been accepted by **IEEE/ACM IWQoS 2025 (CCF-B)**. Congratulations to Shicheng, Haikuo and Jingmiao!
+- **[2025.04]** 🎉 Our paper *"ChannelZip: SLO-Aware Channel Compression for Task-Adaptive Model Serving on IoT Devices."* has been accepted by **ACM TOSN 2024 (CCF-B)**. Congratulations to Puhan!
 - **[2024.12]** 🎉 Our context-aware project in collaboration with Huawei has successfully completed! We extend our sincere gratitude to Huawei, as well as to all the students and collaborators whose efforts and dedication made this achievement possible!
 - **[2024.11]** 🎉 Our team achieved multiple awards at **泛在智能感知技术创新应用大赛**. The project *"可拍不可见：基于屏幕拍摄的设备通信"* won the second prize. Four projects received third prizes: *"多模态融合的设备握持状态感知"*, *"基于超声波与陀螺仪的侧信道安全通信方案"*, *"基于多模态融合的移动设备位置感知"* and *"基于移动设备的多模态融合距离感知"*. Congratulations to Haikuo, Jingmiao, Yichao, Junyang, Yiyu, Xiao and all collaborators!
 - **[2024.10]** 🥳 I am thrilled to announce that I have successfully completed my Ph.D. thesis defense! I am deeply grateful to my supervisor, Prof. Xiang-Yang Li, for his invaluable guidance and support throughout my doctoral journey.
-- **[2024.10]** 🎉 Our two papers *"WowSense: A High-Accuracy Real-Time Grip-State Sensing on Commodity Smartphones."* and *"InOut: Lightweight Transferable Multimodal Indoor-Outdoor Detection System with Smartphones."* has been accepted by **IEEE MSN 2024 (CCF-C)**. Congratulations to Yichao and Yiyu!
+- **[2024.10]** 🎉 Our two papers *"WowSense: A High-Accuracy Real-Time Grip-State Sensing on Commodity Smartphones."* and *"InOut: Lightweight Transferable Multimodal Indoor-Outdoor Detection System with Smartphones."* have been accepted by **IEEE MSN 2024 (CCF-C)**. Congratulations to Yichao and Yiyu!
 - **[2024.10]** 🎉 Our paper *"SGSM: Semi-generalist Sensing Model Combining Handcrafted and Deep Learning Methods."* has been published in International Journal of Machine Learning and Cybernetics **(JCR-Q2)**. Congratulations to Tianjian!
 - **[2024.06]** 🥳 I am truly honored to be recognized as an **Outstanding Graduate of Anhui Province (安徽省优秀毕业生)** and an **Outstanding Graduate of the University of Science and Technology of China (中国科大优秀毕业生)**. This honor is a significant affirmation of my work during my doctoral studies, and I am deeply grateful to all the teachers and classmates who have supported and helped me along the way.
 
 # 📚 Publications
 **---2025---**
+
+- <span style="color: red; font-weight: bold;">[IWQoS'25]</span> **Indoor Localization from Large-scale Poor-quality Crowdsourcing WiFi Data for On-demand Delivery.**  
+   **Kaiwen Guo**, Shicheng Zheng *(Equal Contribution)*, Hao Zhou, Yan Zhang, Keli Yan, Guobin Shen, Haohua Du, Xiang-Yang Li.  
+   *IEEE/ACM International Symposium on Quality of Service* **IEEE/ACM IWQoS 2025 (CCF-B)**
+
+- <span style="color: red; font-weight: bold;">[IWQoS'25]</span> **InvisiCode: Boosting Intra-Frame Screen-Camera Communication by Breaking Through Noise Limitations.**  
+   Haikuo Yu, Jingmiao Zhang *(Equal Contribution)*, Haohua Du, **Kaiwen Guo**, Xiang-Yang Li.  
+   *IEEE/ACM International Symposium on Quality of Service* **IEEE/ACM IWQoS 2025 (CCF-B)**
 
 - <span style="color: red; font-weight: bold;">[TOSN'25]</span> **ChannelZip: SLO-Aware Channel Compression for Task-Adaptive Model Serving on IoT Devices.**  
    Puhan Luo, Jiahui Hou, Haisheng Tan, Mu Yuan, Guangyu Wu, **Kaiwen Guo**, Zhiqiang Wang, Xiang-Yang Li.  
