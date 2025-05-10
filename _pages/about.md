@@ -15,7 +15,7 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
 - **2017.09 - 2018.01**&emsp;Exchange Student in Department of Computer Science, National Tsing Hua University
 
 # 📰 News
-- **[2025.05]** 🎉 Our paper *"SEGUS: A Semantic Element Gesture Understanding System via Symbol-Path Decoupling"* has been accepted by **IEEE ICCCN 2025 (CCF-C)**.
+- **[2025.05]** 🎉 Our paper *"SEGUS: A Semantic Element Gesture Understanding System via Symbol-Path Decoupling"* has been accepted by **IEEE ICCCN 2025 (CCF-C)**. Congratulations to Tianyi!
 - **[2025.05]** 🎉 Our paper *"XHGA: Expanding the Capabilities of Cross-Modal Wrist-Worn Devices for Multi-Task Hand Gesture Applications"* has been accepted by **IEEE TMC 2025 (CCF-A)**.
 - **[2025.05]** 🎉 Our two paper *"Indoor Localization from Large-scale Poor-quality Crowdsourcing WiFi Data for On-demand Delivery"* and *"InvisiCode: Boosting Intra-Frame Screen-Camera Communication by Breaking Through Noise Limitations*" have been accepted by **IEEE/ACM IWQoS 2025 (CCF-B)**. Congratulations to Shicheng, Haikuo and Jingmiao!
 - **[2025.04]** 🎉 Our paper *"ChannelZip: SLO-Aware Channel Compression for Task-Adaptive Model Serving on IoT Devices."* has been accepted by **ACM TOSN 2025 (CCF-B)**. Congratulations to Puhan!
