@@ -15,8 +15,9 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
 - **2017.09 - 2018.01**&emsp;Exchange Student in Department of Computer Science, National Tsing Hua University
 
 # 📰 News
+- **[2025.05]** 🎉 Our paper *"XHGA: Expanding the Capabilities of Cross-Modal Wrist-Worn Devices for Multi-Task Hand Gesture Applications"* has been accepted by **IEEE TMC 2025 (CCF-A)**.
 - **[2025.05]** 🎉 Our two paper *"Indoor Localization from Large-scale Poor-quality Crowdsourcing WiFi Data for On-demand Delivery"* and *"InvisiCode: Boosting Intra-Frame Screen-Camera Communication by Breaking Through Noise Limitations*" have been accepted by **IEEE/ACM IWQoS 2025 (CCF-B)**. Congratulations to Shicheng, Haikuo and Jingmiao!
-- **[2025.04]** 🎉 Our paper *"ChannelZip: SLO-Aware Channel Compression for Task-Adaptive Model Serving on IoT Devices."* has been accepted by **ACM TOSN 2024 (CCF-B)**. Congratulations to Puhan!
+- **[2025.04]** 🎉 Our paper *"ChannelZip: SLO-Aware Channel Compression for Task-Adaptive Model Serving on IoT Devices."* has been accepted by **ACM TOSN 2025 (CCF-B)**. Congratulations to Puhan!
 - **[2024.12]** 🎉 Our context-aware project in collaboration with Huawei has successfully completed! We extend our sincere gratitude to Huawei, as well as to all the students and collaborators whose efforts and dedication made this achievement possible!
 - **[2024.11]** 🎉 Our team achieved multiple awards at **泛在智能感知技术创新应用大赛**. The project *"可拍不可见：基于屏幕拍摄的设备通信"* won the second prize. Four projects received third prizes: *"多模态融合的设备握持状态感知"*, *"基于超声波与陀螺仪的侧信道安全通信方案"*, *"基于多模态融合的移动设备位置感知"* and *"基于移动设备的多模态融合距离感知"*. Congratulations to Haikuo, Jingmiao, Yichao, Junyang, Yiyu, Xiao and all collaborators!
 - **[2024.10]** 🥳 I am thrilled to announce that I have successfully completed my Ph.D. thesis defense! I am deeply grateful to my supervisor, Prof. Xiang-Yang Li, for his invaluable guidance and support throughout my doctoral journey.
@@ -26,6 +27,10 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
 
 # 📚 Publications
 **---2025---**
+
+- <span style="color: red; font-weight: bold;">[TMC'25]</span> **XHGA: Expanding the Capabilities of Cross-Modal Wrist-Worn Devices for Multi-Task Hand Gesture Applications**  
+   **Kaiwen Guo**, Hui Tang, Tianyi Xu, Hao Zhou, Mengxia Lyu, Zhi Liu, Xiaoyan Wang, Xiang-Yang Li.  
+   *IEEE Transactions on Mobile Computing* **IEEE TMC 2025 (CCF-A)**
 
 - <span style="color: red; font-weight: bold;">[IWQoS'25]</span> **Indoor Localization from Large-scale Poor-quality Crowdsourcing WiFi Data for On-demand Delivery.**  
    **Kaiwen Guo**, Shicheng Zheng *(Equal Contribution)*, Hao Zhou, Yan Zhang, Keli Yan, Guobin Shen, Haohua Du, Xiang-Yang Li.  
