@@ -40,11 +40,11 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
    *IEEE Transactions on Mobile Computing* **IEEE TMC 2025 (CCF-A)**
 
 - <span style="color: red; font-weight: bold;">[IWQoS'25]</span> **Indoor Localization from Large-scale Poor-quality Crowdsourcing WiFi Data for On-demand Delivery.**  
-   **Kaiwen Guo**, Shicheng Zheng *(Equal Contribution)*, Hao Zhou, Yan Zhang, Keli Yan, Guobin Shen, Haohua Du, Xiang-Yang Li.  
+   **Kaiwen Guo†**, Shicheng Zheng†, Hao Zhou, Yan Zhang, Keli Yan, Guobin Shen, Haohua Du, Xiang-Yang Li.  
    *IEEE/ACM International Symposium on Quality of Service* **IEEE/ACM IWQoS 2025 (CCF-B)**
 
 - <span style="color: red; font-weight: bold;">[IWQoS'25]</span> **InvisiCode: Boosting Intra-Frame Screen-Camera Communication by Breaking Through Noise Limitations.**  
-   Haikuo Yu, Jingmiao Zhang *(Equal Contribution)*, Haohua Du, **Kaiwen Guo**, Xiang-Yang Li.  
+   Haikuo Yu, Jingmiao Zhang, Haohua Du, **Kaiwen Guo**, Xiang-Yang Li.  
    *IEEE/ACM International Symposium on Quality of Service* **IEEE/ACM IWQoS 2025 (CCF-B)**
 
 - <span style="color: red; font-weight: bold;">[TOSN'25]</span> **ChannelZip: SLO-Aware Channel Compression for Task-Adaptive Model Serving on IoT Devices.**  
@@ -66,11 +66,11 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
    *IEEE Conference on Mobility, Sensing and Networking* **(IEEE MSN 2020, CCF-C)**
 
 - <span style="color: red; font-weight: bold;">[MSN'24]</span> **WowSense: A High-Accuracy Real-Time Grip-State Sensing on Commodity Smartphones.**  
-   Yichao Gao, **Kaiwen Guo** *(Corresponding Author)*, Chuanzi Zhang, Yiyu Xin, Feiyu Han, Haohua Du, Xiang-Yang Li.  
+   Yichao Gao, **Kaiwen Guo\***, Chuanzi Zhang, Yiyu Xin, Feiyu Han, Haohua Du, Xiang-Yang Li.  
    *IEEE Conference on Mobility, Sensing and Networking* **(IEEE MSN 2024, CCF-C)**
 
 - <span style="color: red; font-weight: bold;">[MSN'24]</span> **InOut: Lightweight Transferable Multimodal Indoor-Outdoor Detection System with Smartphones.**  
-   Yiyu Xin, Chuanzi Zhang, **Kaiwen Guo** *(Corresponding Author)*, Yichao Gao, Haohua Du, Xiang-Yang Li.  
+   Yiyu Xin, Chuanzi Zhang, **Kaiwen Guo\***, Yichao Gao, Haohua Du, Xiang-Yang Li.  
    *IEEE Conference on Mobility, Sensing and Networking* **(IEEE MSN 2024, CCF-C)**
 
 - <span style="color: red; font-weight: bold;">[INFOCOM'24]</span> **MultiHGR: Multi-Task Hand Gesture Recognition with Cross-Modal Wrist-Worn Devices.**  
