@@ -27,7 +27,8 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
 - **[2024.06]** 🥳 I am truly honored to be recognized as an **Outstanding Graduate of Anhui Province (安徽省优秀毕业生)** and an **Outstanding Graduate of the University of Science and Technology of China (中国科大优秀毕业生)**. This honor is a significant affirmation of my work during my doctoral studies, and I am deeply grateful to all the teachers and classmates who have supported and helped me along the way.
 
 # 📚 Publications
-* indicates corresponding author; † indicates equal contribution.
+(\* indicates corresponding author; † indicates equal contribution.)
+
 **---2025---**
 
 - <span style="color: red; font-weight: bold;">[ICCCN'25]</span> **SEGUS: A Semantic Element Gesture Understanding System via Symbol-Path Decoupling**  
