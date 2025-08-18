@@ -33,19 +33,19 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
 
 - <span style="color: red; font-weight: bold;">[ICCCN'25]</span> **SEGUS: A Semantic Element Gesture Understanding System via Symbol-Path Decoupling**  
    Tianyi Xu, Hao Zhou, **Kaiwen Guo**, Xiaoyan Wang, Zhi Liu.  
-   *IEEE International Conference on Computer Communications and Networks* **IEEE ICCCN 2025 (CCF-C)**
+   *IEEE International Conference on Computer Communications and Networks* **(IEEE ICCCN 2025, CCF-C)**
 
 - <span style="color: red; font-weight: bold;">[TMC'25]</span> **XHGA: Expanding the Capabilities of Cross-Modal Wrist-Worn Devices for Multi-Task Hand Gesture Applications**  
    **Kaiwen Guo**, Hui Tang, Tianyi Xu, Hao Zhou, Mengxia Lyu, Zhi Liu, Xiaoyan Wang, Xiang-Yang Li.  
-   *IEEE Transactions on Mobile Computing* **IEEE TMC 2025 (CCF-A)**
+   *IEEE Transactions on Mobile Computing* **(IEEE TMC 2025, CCF-A)**
 
 - <span style="color: red; font-weight: bold;">[IWQoS'25]</span> **Indoor Localization from Large-scale Poor-quality Crowdsourcing WiFi Data for On-demand Delivery.**  
    **Kaiwen Guo†**, Shicheng Zheng†, Hao Zhou, Yan Zhang, Keli Yan, Guobin Shen, Haohua Du, Xiang-Yang Li.  
-   *IEEE/ACM International Symposium on Quality of Service* **IEEE/ACM IWQoS 2025 (CCF-B)**
+   *IEEE/ACM International Symposium on Quality of Service* **(IEEE/ACM IWQoS 2025, CCF-B)**
 
 - <span style="color: red; font-weight: bold;">[IWQoS'25]</span> **InvisiCode: Boosting Intra-Frame Screen-Camera Communication by Breaking Through Noise Limitations.**  
    Haikuo Yu, Jingmiao Zhang, Haohua Du, **Kaiwen Guo**, Xiang-Yang Li.  
-   *IEEE/ACM International Symposium on Quality of Service* **IEEE/ACM IWQoS 2025 (CCF-B)**
+   *IEEE/ACM International Symposium on Quality of Service* **(IEEE/ACM IWQoS 2025, CCF-B)**
 
 - <span style="color: red; font-weight: bold;">[TOSN'25]</span> **ChannelZip: SLO-Aware Channel Compression for Task-Adaptive Model Serving on IoT Devices.**  
    Puhan Luo, Jiahui Hou, Haisheng Tan, Mu Yuan, Guangyu Wu, **Kaiwen Guo**, Zhiqiang Wang, Xiang-Yang Li.  
