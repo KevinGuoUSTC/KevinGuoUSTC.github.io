@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 # 👤 Bio
-I got my Ph.D. degree at [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), where I was fortunate to be advised by [Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/) (ACM Fellow, IEEE Fellow). Now, I am working at [Ocean University of China (OUC)](https://www.ouc.edu.cn/main.htm). My research interests include IoT, Wireless Sensing, and Ubiquitous Computing. I am eager to connect and collaborate with fellow researchers interested in these areas. Feel free to reach out to me via email😆.
+I got my Ph.D. degree at [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), where I was fortunate to be advised by [Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/) (ACM Fellow, IEEE Fellow). Now, I am working at [Ocean University of China (OUC)](https://www.ouc.edu.cn/main.htm) in the team led by [Prof. Zhongwen Guo](https://it.ouc.edu.cn/gzw/main.htm). My research interests include IoT, Wireless Sensing, and Ubiquitous Computing. I am eager to connect and collaborate with fellow researchers interested in these areas. Feel free to reach out to me via email😆.
 
 # 🎓 Education
 - **2019.09 - 2024.12**&emsp;Ph.D. in School of Computer Science and Technology, University of Science and Technology of China
@@ -15,6 +15,7 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
 - **2017.09 - 2018.01**&emsp;Exchange Student in Department of Computer Science, National Tsing Hua University
 
 # 📰 News
+- **[2025.09]** 🎉 Our paper *"Stick, Swipe, Secure: Acoustic Cross-Device User Authentication via a Low-Cost Passive Fingerprint Sticker"* has been accepted by **ACM IMWUT 2025 (CCF-A)**. Congratulations to Xue Gong!
 - **[2025.05]** 🎉 Our paper *"SEGUS: A Semantic Element Gesture Understanding System via Symbol-Path Decoupling"* has been accepted by **IEEE ICCCN 2025 (CCF-C)**. Congratulations to Tianyi!
 - **[2025.05]** 🎉 Our paper *"XHGA: Expanding the Capabilities of Cross-Modal Wrist-Worn Devices for Multi-Task Hand Gesture Applications"* has been accepted by **IEEE TMC 2025 (CCF-A)**.
 - **[2025.05]** 🎉 Our two paper *"Indoor Localization from Large-scale Poor-quality Crowdsourcing WiFi Data for On-demand Delivery"* and *"InvisiCode: Boosting Intra-Frame Screen-Camera Communication by Breaking Through Noise Limitations*" have been accepted by **IEEE/ACM IWQoS 2025 (CCF-B)**. Congratulations to Shicheng, Haikuo and Jingmiao!
@@ -30,6 +31,9 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
 (\* indicates corresponding author; † indicates equal contribution.)
 
 **---2025---**
+- <span style="color: red; font-weight: bold;">[IMWUT'25]</span> **Stick, Swipe, Secure: Acoustic Cross-Device User Authentication via a Low-Cost Passive Fingerprint Sticker**  
+   Xue Gong†, **Kaiwen Guo†**, Hao Chen, Feng Li, Chao Liu.  
+   *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies* **(ACM IMWUT 2025, CCF-A)**
 
 - <span style="color: red; font-weight: bold;">[ICCCN'25]</span> **SEGUS: A Semantic Element Gesture Understanding System via Symbol-Path Decoupling**  
    Tianyi Xu, Hao Zhou, **Kaiwen Guo**, Xiaoyan Wang, Zhi Liu.  
@@ -44,7 +48,7 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
    *IEEE/ACM International Symposium on Quality of Service* **(IEEE/ACM IWQoS 2025, CCF-B)**
 
 - <span style="color: red; font-weight: bold;">[IWQoS'25]</span> **InvisiCode: Boosting Intra-Frame Screen-Camera Communication by Breaking Through Noise Limitations.**  
-   Haikuo Yu, Jingmiao Zhang, Haohua Du, **Kaiwen Guo**, Xiang-Yang Li.  
+   Haikuo Yu, Jingmiao Zhang, Haohua Du, **Kaiwen Guo\***, Xiang-Yang Li.  
    *IEEE/ACM International Symposium on Quality of Service* **(IEEE/ACM IWQoS 2025, CCF-B)**
 
 - <span style="color: red; font-weight: bold;">[TOSN'25]</span> **ChannelZip: SLO-Aware Channel Compression for Task-Adaptive Model Serving on IoT Devices.**  
