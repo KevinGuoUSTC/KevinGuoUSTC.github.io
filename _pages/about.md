@@ -144,8 +144,8 @@ I would like to extend my heartfelt gratitude to the companies and organizations
 Furthermore, I am deeply grateful to my research collaborators who have made significant contributions to my academic journey. They include, but are not limited to (only introducing those with personal webpages):
 - [Hao Zhou](https://cs.ustc.edu.cn/2020/0905/c23239a460148/page.htm), now Associate Professor at USTC, research interests include wireless charging and wireless sensing.
 - [Haohua Du](https://cst.buaa.edu.cn/info/1113/2720.htm), now Assistant Professor at BUAA, research interests include mobile computing and IoT security.
-- [Feiyu Han](https://fyhancs.github.io/), now at NUIST, research interests include mobile/wireless sensing and ubiquitous computing.
-- [Fei Shang](https://zaoanhh.github.io/), now Ph.D. Candidate at USTC, research interest is wireless sensing.
+- [Feiyu Han](https://fyhancs.github.io/), now Associate Professor at NUIST, research interests include mobile/wireless sensing and ubiquitous computing.
+- [Fei Shang](https://zaoanhh.github.io/), now Postdoctoral at HKU, research interest is wireless sensing.
 - [Jingmiao Zhang](https://glycineeeee.github.io/), now Master Student at USTC, research interests include security and privacy in IoT systems and machine learning. <span style="color: red; font-weight: bold;">She is seeking Ph.D. opportunities for Fall 2026 worldwide 🔥.</span>
 - [Shicheng Zheng](https://about.scsccc.com/), now Joint-Ph.D. Student of MSRA and USTC, research interests include wireless, network and artificial intelligence. Thanks to him for providing the convenient network infrastructure and GPT 😄.
 - [Ye Tian](https://scholar.google.com/citations?user=P3hRr2wAAAAJ&hl=en), now Ph.D. Candidate at UCSD,  research interests include mobile computing and ubiquitous computing.
