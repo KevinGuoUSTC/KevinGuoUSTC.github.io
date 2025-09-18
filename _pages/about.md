@@ -16,6 +16,7 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
 
 # 📰 News
 - **[2025.09]** 🎉 Our paper *"Stick, Swipe, Secure: Acoustic Cross-Device User Authentication via a Low-Cost Passive Fingerprint Sticker"* has been accepted by **ACM IMWUT 2025 (CCF-A)**. Congratulations to Xue Gong!
+- **[2025.05]** 🎉 Our poster paper *"[Poster]NFINGER: Personalized Backside Gesture Recognition on Smartphones Using Back-mounted NFC Tag Array"* has been accepted by **ACM Ubicomp 2025**. Congratulations to Chongxuan Ma!
 - **[2025.05]** 🎉 Our paper *"SEGUS: A Semantic Element Gesture Understanding System via Symbol-Path Decoupling"* has been accepted by **IEEE ICCCN 2025 (CCF-C)**. Congratulations to Tianyi!
 - **[2025.05]** 🎉 Our paper *"XHGA: Expanding the Capabilities of Cross-Modal Wrist-Worn Devices for Multi-Task Hand Gesture Applications"* has been accepted by **IEEE TMC 2025 (CCF-A)**.
 - **[2025.05]** 🎉 Our two paper *"Indoor Localization from Large-scale Poor-quality Crowdsourcing WiFi Data for On-demand Delivery"* and *"InvisiCode: Boosting Intra-Frame Screen-Camera Communication by Breaking Through Noise Limitations*" have been accepted by **IEEE/ACM IWQoS 2025 (CCF-B)**. Congratulations to Shicheng, Haikuo and Jingmiao!
@@ -34,6 +35,10 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
 - <span style="color: red; font-weight: bold;">[IMWUT'25]</span> **Stick, Swipe, Secure: Acoustic Cross-Device User Authentication via a Low-Cost Passive Fingerprint Sticker**  
    Xue Gong†, **Kaiwen Guo†**, Hao Chen, Feng Li, Chao Liu.  
    *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies* **(ACM IMWUT 2025, CCF-A)**
+
+- <span style="color: red; font-weight: bold;">[Ubicomp'25]</span> **[Poster]NFINGER: Personalized Backside Gesture Recognition on Smartphones Using Back-mounted NFC Tag Array**  
+   Chongxuan Ma, Zheng Xie, **Kaiwen Guo†**, Chao Liu.  
+   *ACM International Conference on Ubiquitous Computing* **(ACM Ubicomp 2025)**
 
 - <span style="color: red; font-weight: bold;">[ICCCN'25]</span> **SEGUS: A Semantic Element Gesture Understanding System via Symbol-Path Decoupling**  
    Tianyi Xu, Hao Zhou, **Kaiwen Guo**, Xiaoyan Wang, Zhi Liu.  
