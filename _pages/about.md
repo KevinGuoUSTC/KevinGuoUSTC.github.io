@@ -37,7 +37,7 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
    *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies* **(ACM IMWUT 2025, CCF-A)**
 
 - <span style="color: red; font-weight: bold;">[Ubicomp'25]</span> **[Poster]NFINGER: Personalized Backside Gesture Recognition on Smartphones Using Back-mounted NFC Tag Array**  
-   Chongxuan Ma, Zheng Xie, **Kaiwen Guo†**, Chao Liu.  
+   Chongxuan Ma, Zheng Xie, **Kaiwen Guo**, Chao Liu.  
    *ACM International Conference on Ubiquitous Computing* **(ACM Ubicomp 2025)**
 
 - <span style="color: red; font-weight: bold;">[ICCCN'25]</span> **SEGUS: A Semantic Element Gesture Understanding System via Symbol-Path Decoupling**  
