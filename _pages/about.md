@@ -15,6 +15,7 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
 - **2017.09 - 2018.01**&emsp;Exchange Student in Department of Computer Science, National Tsing Hua University
 
 # 📰 News
+- **[2025.10]** 🎉 Our paper *"Multi-Modal Device-to-Device Ranging and Joint Localization"* has been accepted by **IEEE IOTJ 2025 (SCI-Q1)**. Congratulations to Xiao Li!
 - **[2025.09]** 🎉 Our paper *"Stick, Swipe, Secure: Acoustic Cross-Device User Authentication via a Low-Cost Passive Fingerprint Sticker"* has been accepted by **ACM IMWUT 2025 (CCF-A)**. Congratulations to Xue Gong!
 - **[2025.05]** 🎉 Our poster paper *"[Poster]NFINGER: Personalized Backside Gesture Recognition on Smartphones Using Back-mounted NFC Tag Array"* has been accepted by **ACM Ubicomp 2025**. Congratulations to Chongxuan Ma!
 - **[2025.05]** 🎉 Our paper *"SEGUS: A Semantic Element Gesture Understanding System via Symbol-Path Decoupling"* has been accepted by **IEEE ICCCN 2025 (CCF-C)**. Congratulations to Tianyi!
@@ -32,6 +33,10 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
 (\* indicates corresponding author; † indicates equal contribution.)
 
 **---2025---**
+- <span style="color: red; font-weight: bold;">[IOTJ'25]</span> **Multi-Modal Device-to-Device Ranging and Joint Localization**  
+   Xiao Li, **Kaiwen Guo**, Shicheng Zheng, Fei Shang, Chunyu He, Haohua Du, Xiang-Yang Li.  
+   *IEEE Internet of Things Journal* **(IEEE IOTJ 2025, SCI-Q1)**
+  
 - <span style="color: red; font-weight: bold;">[IMWUT'25]</span> **Stick, Swipe, Secure: Acoustic Cross-Device User Authentication via a Low-Cost Passive Fingerprint Sticker**  
    Xue Gong†, **Kaiwen Guo†**, Hao Chen, Feng Li, Chao Liu.  
    *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies* **(ACM IMWUT 2025, CCF-A)**
