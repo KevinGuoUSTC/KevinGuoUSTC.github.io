@@ -16,6 +16,7 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
 
 # 📰 News
 - **[2025.11]** 🎉 Our paper *"One2: An Intrusion Detection System for Both Internal and External Vehicular Network from Weak Labeled Data"* has been accepted by **IEEE TDSC 2025 (CCF-A)**. Congratulations to He Lu!
+- **[2025.10]** 🎉 Congratulations to my jointly supervised master's student, Xue Gong, on being awarded the **National Scholarship**.
 - **[2025.10]** 🎉 Our paper *"Multi-Modal Device-to-Device Ranging and Joint Localization"* has been accepted by **IEEE IOTJ 2025 (SCI-Q1)**. Congratulations to Xiao Li!
 - **[2025.09]** 🎉 Our paper *"Stick, Swipe, Secure: Acoustic Cross-Device User Authentication via a Low-Cost Passive Fingerprint Sticker"* has been accepted by **ACM IMWUT 2025 (CCF-A)**. Congratulations to Xue Gong!
 - **[2025.05]** 🎉 Our poster paper *"[Poster]NFINGER: Personalized Backside Gesture Recognition on Smartphones Using Back-mounted NFC Tag Array"* has been accepted by **ACM Ubicomp 2025**. Congratulations to Chongxuan Ma!
