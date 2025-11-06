@@ -16,7 +16,7 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
 
 # 📰 News
 - **[2025.11]** 🎉 Our paper *"One2: An Intrusion Detection System for Both Internal and External Vehicular Network from Weak Labeled Data"* has been accepted by **IEEE TDSC 2025 (CCF-A)**. Congratulations to He Lu!
-- **[2025.10]** 🎉 Congratulations to my jointly supervised master's student, Xue Gong, on being awarded the **National Scholarship**.
+- **[2025.10]** 🎉 Congratulations to my jointly supervised master's student, Xue Gong, on being awarded the **National Scholarship （国家奖学金）**.
 - **[2025.10]** 🎉 Our paper *"Multi-Modal Device-to-Device Ranging and Joint Localization"* has been accepted by **IEEE IOTJ 2025 (SCI-Q1)**. Congratulations to Xiao Li!
 - **[2025.09]** 🎉 Our paper *"Stick, Swipe, Secure: Acoustic Cross-Device User Authentication via a Low-Cost Passive Fingerprint Sticker"* has been accepted by **ACM IMWUT 2025 (CCF-A)**. Congratulations to Xue Gong!
 - **[2025.05]** 🎉 Our poster paper *"[Poster]NFINGER: Personalized Backside Gesture Recognition on Smartphones Using Back-mounted NFC Tag Array"* has been accepted by **ACM Ubicomp 2025**. Congratulations to Chongxuan Ma!
@@ -156,12 +156,12 @@ I would like to extend my heartfelt gratitude to the companies and organizations
 Furthermore, I am deeply grateful to my research collaborators who have made significant contributions to my academic journey. They include, but are not limited to (only introducing those with personal webpages):
 - [Hao Zhou](https://cs.ustc.edu.cn/2020/0905/c23239a460148/page.htm), now Associate Professor at USTC, research interests include wireless charging and wireless sensing.
 - [Haohua Du](https://cst.buaa.edu.cn/info/1113/2720.htm), now Assistant Professor at BUAA, research interests include mobile computing and IoT security.
+- [Chao Liu](https://ouc-chao-liu.github.io/main/), now Associate Professor at OUC, research interests include mobile computing and ubiquitous computing.
 - [Feiyu Han](https://fyhancs.github.io/), now Associate Professor at NUIST, research interests include mobile/wireless sensing and ubiquitous computing.
 - [Fei Shang](https://zaoanhh.github.io/), now Postdoctoral at HKU, research interest is wireless sensing.
 - [Jingmiao Zhang](https://glycineeeee.github.io/), now Master Student at USTC, research interests include security and privacy in IoT systems and machine learning. <span style="color: red; font-weight: bold;">She is seeking Ph.D. opportunities for Fall 2026 worldwide 🔥.</span>
 - [Shicheng Zheng](https://about.scsccc.com/), now Joint-Ph.D. Student of MSRA and USTC, research interests include wireless, network and artificial intelligence. Thanks to him for providing the convenient network infrastructure and GPT 😄.
 - [Ye Tian](https://scholar.google.com/citations?user=P3hRr2wAAAAJ&hl=en), now Ph.D. Candidate at UCSD,  research interests include mobile computing and ubiquitous computing.
-- [Chao Liu](https://ouc-chao-liu.github.io/main/), now Associate Professor at OUC, research interests include mobile computing and ubiquitous computing.
 - ...
 
 ## 🌟 Hobbies
