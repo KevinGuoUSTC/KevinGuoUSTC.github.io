@@ -57,7 +57,7 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
    *ACM International Conference on Ubiquitous Computing* **(ACM Ubicomp 2025)**
 
 - <span style="color: red; font-weight: bold;">[ICCCN'25]</span> **SEGUS: A Semantic Element Gesture Understanding System via Symbol-Path Decoupling**  
-   Tianyi Xu, Hao Zhou, **Kaiwen Guo**, Xiaoyan Wang, Zhi Liu.  
+   Tianyi Xu, Hao Zhou\*, **Kaiwen Guo**\*, Xiaoyan Wang, Zhi Liu.  
    *IEEE International Conference on Computer Communications and Networks* **(IEEE ICCCN 2025, CCF-C)**
 
 - <span style="color: red; font-weight: bold;">[TMC'25]</span> **XHGA: Expanding the Capabilities of Cross-Modal Wrist-Worn Devices for Multi-Task Hand Gesture Applications**  
