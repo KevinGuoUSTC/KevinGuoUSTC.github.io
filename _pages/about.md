@@ -15,6 +15,7 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
 - **2017.09 - 2018.01**&emsp;Exchange Student in Department of Computer Science, National Tsing Hua University
 
 # 📰 News
+- **[2025.12]** 🎉 Our paper *"MagPos: Accurate and Robust Device Localization with Seamless Integration in Magnetic Wireless Power Transfer System"* has been accepted by **IEEE INFOCOM 2026 (CCF-A)**. Congratulations to Yixiao!
 - **[2025.11]** 🎉 Our paper *"One2: An Intrusion Detection System for Both Internal and External Vehicular Network from Weak Labeled Data"* has been accepted by **IEEE TDSC 2025 (CCF-A)**. Congratulations to He Lu!
 - **[2025.10]** 🎉 Congratulations to my jointly supervised master's student, Xue Gong, on being awarded the **National Scholarship （国家奖学金）**.
 - **[2025.10]** 🎉 Our paper *"Multi-Modal Device-to-Device Ranging and Joint Localization"* has been accepted by **IEEE IOTJ 2025 (SCI-Q1)**. Congratulations to Xiao Li!
@@ -35,6 +36,10 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
 (\* indicates corresponding author; † indicates equal contribution.)
 
 **---2025---**
+- <span style="color: red; font-weight: bold;">[INFOCOM'26]</span> **MagPos: Accurate and Robust Device Localization with Seamless Integration in Magnetic Wireless Power Transfer System**  
+   Yixiao Chen, Xinyu Wang, Hao Zhou, Xiang Cui, Tianjian Yang, **Kaiwen Guo**, Chao Liu, Zhi liu.  
+   *IEEE Conference on Computer Communications* **(IEEE INFOCOM 2026, CCF-A)**
+  
 - <span style="color: red; font-weight: bold;">[TDSC'25]</span> **One2: An Intrusion Detection System for Both Internal and External Vehicular Network from Weak Labeled Data**  
    He Lu, Yilong Ren, Yue Liu, Yanan Zhao, **Kaiwen Guo**, Yang Yang, Haohua Du.  
    *IEEE Transactions on Dependable and Secure Computing* **(IEEE TDSC 2025, CCF-A)**
