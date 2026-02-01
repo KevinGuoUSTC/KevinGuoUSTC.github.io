@@ -15,7 +15,7 @@ I got my Ph.D. degree at [University of Science and Technology of China (USTC)](
 - **2017.09 - 2018.01**&emsp;Exchange Student in Department of Computer Science, National Tsing Hua University
 
 # 📰 News
-- **[2026.01]** 🎉 I have been Selected for the **Shandong Provincial Postdoctoral Innovative Talent Support Program (博新计划)**.
+- **[2026.01]** 🎉 I have been Selected for the **Shandong Provincial Postdoctoral Innovative Talent Support Program (山东省博新计划)**.
 - **[2025.12]** 🎉 I have been selected for the **Shandong Provincial Innovation Seed Cultivation Program**.
 - **[2025.12]** 🎉 Our paper *"MagPos: Accurate and Robust Device Localization with Seamless Integration in Magnetic Wireless Power Transfer System"* has been accepted by **IEEE INFOCOM 2026 (CCF-A)**. Congratulations to Yixiao!
 - **[2025.11]** 🎉 Our paper *"One2: An Intrusion Detection System for Both Internal and External Vehicular Network from Weak Labeled Data"* has been accepted by **IEEE TDSC 2025 (CCF-A)**. Congratulations to He Lu!
