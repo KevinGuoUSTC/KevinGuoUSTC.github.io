@@ -167,8 +167,8 @@ Furthermore, I am deeply grateful to my research collaborators who have made sig
 - [Chao Liu](https://ouc-chao-liu.github.io/main/), now Associate Professor at OUC, research interests include mobile computing and ubiquitous computing.
 - [Feiyu Han](https://fyhancs.github.io/), now Associate Professor at NUIST, research interests include mobile/wireless sensing and ubiquitous computing.
 - [Fei Shang](https://zaoanhh.github.io/), now Postdoctoral at HKU, research interest is wireless sensing.
-<!-- - [Jingmiao Zhang](https://glycineeeee.github.io/), now Master Student at USTC, research interests include security and privacy in IoT systems and machine learning. <span style="color: red; font-weight: bold;">She is seeking Ph.D. opportunities for Fall 2026 worldwide 🔥.</span>
-- [Shicheng Zheng](https://about.scsccc.com/), now Joint-Ph.D. Student of MSRA and USTC, research interests include wireless, network and artificial intelligence. Thanks to him for providing the convenient network infrastructure and GPT 😄. -->
+<!-- - [Jingmiao Zhang](https://glycineeeee.github.io/), now Master Student at USTC, research interests include security and privacy in IoT systems and machine learning. <span style="color: red; font-weight: bold;">She is seeking Ph.D. opportunities for Fall 2026 worldwide 🔥.</span> -->
+<!-- - [Shicheng Zheng](https://about.scsccc.com/), now Joint-Ph.D. Student of MSRA and USTC, research interests include wireless, network and artificial intelligence. Thanks to him for providing the convenient network infrastructure and GPT 😄. -->
 - [Ye Tian](https://scholar.google.com/citations?user=P3hRr2wAAAAJ&hl=en), now Ph.D. Candidate at UCSD,  research interests include mobile computing and ubiquitous computing.
 - ...
 
